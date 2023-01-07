@@ -1,0 +1,29 @@
+html {
+	
+	background-image: url('gettyimages-1224918845-612x612.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: 100% 100%;
+  background-size: cover;
+  background-color: seagreen;
+}
+
+body {
+	background: seagreen;
+	width: 50%;
+	margin: 10px auto;
+	padding: 10px;
+	background-color: seagreen;
+
+}
+
+table {
+	border-collapse: collapse;
+	border: 2px black solid;
+	font: 12px sans-serif;
+}
+
+td {
+	border: 1px black solid;
+	padding: 5px;
+}
