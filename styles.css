@@ -32,3 +32,11 @@ li {
   line-height: 2;
   letter-spacing: 1px;
 }
+
+.quote {
+  color: red;
+}
+
+#mainquote {
+  border: 5px solid black;
+}
